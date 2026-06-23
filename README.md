@@ -2,7 +2,7 @@
 
 Este repositório é dedicado à publicação e consulta do projeto de pesquisa voltado para a análise estatística de dados de contagem com excesso de observações nulas.
 
-📄 **[Clique aqui para acessar e fazer o download do documento completo (PDF)](Modelos_para_dados_inflacionados_de_zeros.pdf)**
+📄 **[Clique aqui para acessar e fazer o download do documento completo (PDF)](Modelos%20para%20dados%20inflacionados%20de%20zeros.pdf)**
 
 ---
 
