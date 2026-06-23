@@ -10,7 +10,9 @@ Este repositório é dedicado à publicação e consulta do projeto de pesquisa 
 
 * **Márcio A. V. Batista** (Aluno)
 * **Lourdes C. C. Montenegro** (Orientadora)
+  
 **Instituição:** Departamento de Estatística - Instituto de Ciências Exatas, Universidade Federal de Minas Gerais (UFMG).
+
 **Apoio Institucional:** Este projeto foi desenvolvido com o suporte da Pró-Reitoria de Pesquisa (PRPq) da UFMG, por meio do Programa de Bolsas de Iniciação Científica (PROBIC).
 ---
 
